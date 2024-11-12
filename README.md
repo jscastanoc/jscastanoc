@@ -1,9 +1,7 @@
 # 🤓 About Me:
 I am Sebastian, a data scientist, AI/ML engineer, and tech lead. I hold a PhD in AI/ML from the University of Freiburg for my work on “Machine learning methods for motor performance decoding in adaptive deep brain stimulation”. I have been in the AI/ML space for more than 10 years, working on interdisciplinary projects across healthcare, energy, finance, marketing, and consumer products. I have worked with companies like PepsiCo, Bundesliga teams, and German banks.
 
-For a more in depth overview of who I am and what I do ⇢ https://jscastanoc.github.io/ or add me on LinkedIn 🙂
-
-## 🌐 Socials:
+For a more in depth overview of who I am and what I do ⇢ https://jscastanoc.github.io/ or add me on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jscastanoc) 
 
 # 💻 Tech Stack:
